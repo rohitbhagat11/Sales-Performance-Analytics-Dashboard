@@ -9,6 +9,14 @@ An Excel sales analysis project built with Power Pivot. The dashboard summarizes
 ## Preview
 ![Sales dashboard preview](sales-dashboard-preview.png)
 ![Sales data preview](sales-data-preview.png)
+## Key insights
+The displayed view is filtered to **Americas** and shows **January through June 2024**.
+- **Revenue is slightly above budget:** Actual revenue is $3,035,441 against a budget of $3,015,266, a positive difference of $20,175 (0.67%).
+- **Cost of Goods Sold is over budget:** COGS is $2,260,350 against a budget of $2,131,682, an unfavorable difference of $128,668 (6.04%).
+- **Gross profit is below budget:** Actual gross profit is $775,091 versus a budget of $883,584, a shortfall of $108,493 (12.28%).
+- **Operating expenses are slightly under budget:** Actual operating expenses are $203,844 compared with a budget of $208,321, a favorable difference of $4,477 (2.15%).
+- **Operating income is below budget:** Actual operating income is $571,247 versus a budget of $675,263, a shortfall of $104,016 (15.40%).
+- **Net income is substantially below budget:** Actual net income is $169,181 compared with a budget of $302,322, a shortfall of $133,141 (44.04%).
 ## Project structure
 - `dashboard/Sales_Performance_Dashboard.xlsx` — Excel dashboard and Power Pivot model
 - `images/sales-dashboard-preview.png` — dashboard screenshot
