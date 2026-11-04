@@ -8,6 +8,7 @@ An Excel sales analysis project built with Power Pivot. The dashboard summarizes
 - Sales analysis based on transaction and product price data
 ## Preview
 ![Sales dashboard preview](sales-dashboard-preview.png)
+![Sales data preview](sales-data-preview.png)
 ## Project structure
 - `dashboard/Sales_Performance_Dashboard.xlsx` — Excel dashboard and Power Pivot model
 - `images/sales-dashboard-preview.png` — dashboard screenshot
